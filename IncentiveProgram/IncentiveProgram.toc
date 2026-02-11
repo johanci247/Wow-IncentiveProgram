@@ -5,6 +5,7 @@
 ## Author: Xubera, Grubsey, Syl
 ## Version: r22
 ## SavedVariables: IncentiveProgramDB
+## Update Interface number to 120001 for WoW 12.0.1 compatibility
 
 libs/LibStub.lua
 libs/CallbackHandler-1.0.lua
